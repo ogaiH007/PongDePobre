@@ -1,0 +1,5 @@
+C:\Users\ogaiH\Documents\Repositorios\PongDePobre\Prong\Prong\obj\Debug\netcoreapp3.1\Prong.csproj.AssemblyReference.cache
+C:\Users\ogaiH\Documents\Repositorios\PongDePobre\Prong\Prong\obj\Debug\netcoreapp3.1\Prong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogaiH\Documents\Repositorios\PongDePobre\Prong\Prong\obj\Debug\netcoreapp3.1\Prong.AssemblyInfoInputs.cache
+C:\Users\ogaiH\Documents\Repositorios\PongDePobre\Prong\Prong\obj\Debug\netcoreapp3.1\Prong.AssemblyInfo.cs
+C:\Users\ogaiH\Documents\Repositorios\PongDePobre\Prong\Prong\obj\Debug\netcoreapp3.1\Prong.csproj.CoreCompileInputs.cache
